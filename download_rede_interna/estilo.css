@@ -1,0 +1,200 @@
+/* COLOCAR MONT SERRAT NO PIX*/ 
+*{margin: 0;}
+
+.menuger{display: flex;
+        list-style: none;
+        gap: 130px;
+        margin-left: 18%;
+        margin-top: -6%;
+        font-size: medium;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+.logo{width: 250px;
+    height: 150px;
+    object-fit: contain;
+    margin-left: 80px;
+    margin-top: 10px;}
+
+.logtitle{font-size: 120%;
+            margin-left: 79px;
+            position: relative;
+            top: -10px;
+            font-size: x-large;
+            font-family: "Inter", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: weight;
+            font-style: normal;
+            letter-spacing: 15px;}
+
+
+body{background-color: white;}
+
+.cabe{background-color: #C5EBE7;
+        width: 105%;
+        height: 135px;}
+
+
+.loglup{height: 4%;
+        width: 4%;
+        margin-top: -3%;
+        margin-right: 500;}
+
+.logkart{height: 4%;
+        width: 4%;
+        margin-left: 12px;
+        margin-top: -2.85%;}
+
+.baner1{height: 400px;
+        width: 850px;
+        margin-left: 25%;
+        margin-top: 1.2%;}
+
+.titul1{margin-left: 35% ;
+        margin-top: 1.7%;
+        font-family: "Bitcount Single", system-ui;
+        color: rgb(50, 81, 94);}
+
+/*TAMANHO DA IMAGEM DOS PRODUTOS*/
+.proc1{width: 200px;
+        height: 180px;
+        }
+
+.proc2{width: 200px;
+        height: 190px;
+        }
+
+.proc3{width:190px ;
+        height: 173px;
+       }
+
+.proc4{width: 170px;
+        height: 162px;
+      }
+
+.proc5{width: 170px;
+        height: 160px;
+        }
+/*TERMINA AQUI O TAMANHO DA IMAGEM^^*/
+
+/*DIV DOS PRODUTOS EM GERAL*/
+.prodimg{padding-top: 100px;
+        display: flex;
+        justify-content: space-evenly;}
+/*TERMINA AQUI A DIV GERAL DOS PRODUTOS ^*/
+
+/*FORMATAÇÃO DO PRODUTO 1 (PROC1)*/
+.legend1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 27px;}
+
+.preço1{margin-left: 1%;
+        font-size: larger;}
+
+.produ1{text-align: center;}
+
+.pix1{background-color: rgb(174, 204, 204);
+        border-radius: 10px;
+        height: 5vh;
+        font-weight: 500;
+        font-family: "Montserrat", sans-serif;
+        line-height: 5vh;}
+/*TERMINA AQUI A FORMATAÇÃO DO PRODUTO1 (PROC 1)^^*/
+
+/*COMEÇA AQUI A FORMATAÇÃO DO PRODUTO 2(PROC 2)*/
+.legend2{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 27px;}
+
+.produ2{text-align: center;
+        margin-top: -0.6%;}
+
+.pix2{background-color: rgb(174, 204, 204);
+        border-radius: 10px;
+        height: 5vh;
+        font-weight: 500;
+        font-family: "Montserrat", sans-serif;
+        line-height: 5vh;
+        margin-top: -0.25%;}
+
+.preço2{margin-top: -1.0vh;
+        font-size: larger;}
+/*TERMINA AQUI A FORMATAÇÃO DO PRODUTO 2 (PROC 2)*/
+
+/*COMEÇA AQUI A FORMATAÇÃO DO PRODUTO 3 (PROC 3)*/
+.preço3{text-align: center;
+        font-size: larger;}
+
+.pix3{text-align: center;
+        background-color:  rgb(174, 204, 204);
+        border-radius: 10px;
+        height: 5vh;
+        font-weight: 500;}
+/*TERMINA AQUI A DIV DO PRODUTO 3 (PROC 3)*/
+
+/*COMEÇA AQUI A FORMATAÇÃO DO 4 PRODUTO (PROC 4)*/
+.preço4{text-align: center;
+        font-size: larger;}
+
+.pix4{text-align: center;
+      background-color:  rgb(174, 204, 204);
+        border-radius: 10px;
+        height: 5vh;
+        font-weight: 500;  }
+/*TERMINA AQUI A FORMATAÇÃO DO PRODUTO 4 (PROC 4)*/
+
+/*COMEÇA AQUI A FORMATAÇÃO DO PRODUTO 5 (PROC 5)*/
+.preço5{text-align: center;
+        font-size: larger;}
+
+.pix5{background-color:rgb(174, 204, 204) ;
+        border-radius: 10px;
+        height: 5vh;}
+
+/*RODAPE*/
+.rodape{background-color: rgb(37, 27, 125);
+        height: 250px;}
+.redes{color: aliceblue;
+        font-size: x-large;}
+
+.loginst{height: 100px;
+        width: 120px;
+        margin-left: 5vh;}
+
+.arroba{font-size: larger;
+        color: aliceblue;
+        margin-left: 5vh;}
+/*RODAPE^^*/
+
+/*ABOUT US*/
+.somos{width: 230px;
+        height: 220px;
+        margin-left: 80vh;
+        margin-top: 7vh;}
+.TITULO{margin-left: 13vh;
+        margin-top:5vh ;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: darkolivegreen;}
+.fundo{background-color: rgb(132, 124, 226);}
+.sobre{font-size: xx-large;
+color: rgb(63, 21, 14);
+margin-left: 8vh;}
+/*TERMINA AQUI O ABOUT US^^*/
+
+/*COMEÇA AQUI A FORMATAÇÃO DA PAGINA DE CONTAS*/
+.titcont{margin-left: 80vh;
+        margin-top: 10vh;
+        color: rgb(117, 69, 36);}
+
+.critcont{margin-left: 93vh;
+        margin-top: 9vh;
+        font-size: larger;
+        color: aqua;}
+.fundao{background-color: blue;}
+.simbolo{width: 200px;
+        height: 180px;
+        margin-left: 40%;
+        margin-top: 8vh;}
+.criar{margin-top: 9vh;
+        margin-left: 41%;}
+.aviso{margin-left: 28%;
+        margin-top: 8%;
+        color: brown;}
+/*TERMINA AQUI A FORMATAÇÃO DA PÁGINA DE CONTAS*/
